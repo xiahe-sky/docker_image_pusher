@@ -1,3 +1,4 @@
 emby/embyserver:latest
 snowdreamtech/frpc:latest
 jlesage/nginx-proxy-manager:latest
+vaultwarden/server:latest
